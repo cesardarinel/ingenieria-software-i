@@ -7,7 +7,6 @@ UAPA - Ingeniería Software I, Grupo AD. Metodología Kanban.
 - César Darinel Ortiz Abreu
 - Jean Luis Báez Reynoso
 - Luis Eduardo García Cegarra
-- Anyelis Esmeralda López Brito
 
 ## Tablero
 - Project: https://github.com/users/cesardarinel/projects/20
